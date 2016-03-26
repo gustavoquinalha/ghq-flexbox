@@ -1,3 +1,3 @@
 # ghq-flexbox
 
-Um futuro framework 100% reponsivo com flexbox :D
+Um futuro framework 100% responsivo com flexbox :D
